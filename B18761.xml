@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of books, to be sold by auction on Friday the 14 of Octob. 1692. at 4 of the clock in the afternoon, at Wills (lately Roll's) Coffee-House on the North side of St. Pauls Church. Gentlemen may be accommodated with catalogues at Mr. Welds betwixt the two Temple Gates in Fleet-street, at Mr. Manships at the black Bull against the Royal-Exchange, and at the place of sale.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18761</idno><idno type="EEBO-CITATION">99825639</idno>
+  <idno type="VID">206662</idno>
+  <idno type="EEBO-PROQUEST">2240889507</idno>
+  
+            <idno type="STC">Wing C1291</idno>
+            <idno type="PROQUEST">99825639</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825639e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206662)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1791:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of books, to be sold by auction on Friday the 14 of Octob. 1692. at 4 of the clock in the afternoon, at Wills (lately Roll's) Coffee-House on the North side of St. Pauls Church. Gentlemen may be accommodated with catalogues at Mr. Welds betwixt the two Temple Gates in Fleet-street, at Mr. Manships at the black Bull against the Royal-Exchange, and at the place of sale.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term type="topical_term">Catalogs, Booksellers' --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="book_auction_catalogue">
+            <pb facs="tcp:206662:1"/>
+            <pb n="1" facs="tcp:206662:1"/>
+            <head>A <hi>Catalogue of Books,</hi> To be Sold by AUCTION, On <hi>Friday</hi> the 14 of <hi>Octob.</hi> 1692. at 4 of the Clock in the Afternoon, at <hi>Wills</hi> (lately <hi>Roll</hi>'s) Coffee-House on the North side of St. <hi>Pauls</hi> Church. Gen<g ref="char:EOLhyphen"/>tlemen may be accommodated with Catalogues at Mr. <hi>Welds</hi> betwixt the two Temple Gates in <hi>Fleet-street,</hi> at Mr. <hi>Manships</hi> at the black <hi>Bull</hi> against the <hi>Roy<g ref="char:EOLhyphen"/>al-Exchange,</hi> and at the place of Sale.</head>
+            <list>
+               <head>The Conditions of Sale.</head>
+               <item>I. That he that Bids most, is the Buyer, but if a Difference arise, the Book shall be again Exposed</item>
+               <item>II. That every person, not sufficiently known to the Undertaker, give Earnest.</item>
+               <item>III. That all Gentlemen fetch away within Two Days after the Sale is ended, paying ready Money, and likewise Porteridge.</item>
+            </list>
+            <list>
+               <head>Books in <hi>Folio.</hi>
+               </head>
+               <item>1 DR. <hi>Hen. Mores</hi> Mystery of Iniquity 1664</item>
+               <item>2 Dr. <hi>Sibbs</hi> Saints Cordials 1637</item>
+               <item>3 <hi>Goodwins</hi> Redemption Redeemed 1651</item>
+               <item>4 Dr. <hi>Field</hi> of the Church 1635</item>
+               <item>5 Dr. <hi>Homes</hi> Resurrection Revealed 1654</item>
+               <item>6 A. B. <hi>Lauds</hi> Conference with <hi>Fsher</hi> 163<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>7 Dr. <hi>Mayers</hi> Comment on the Bible, from <hi>Joshua</hi> to <hi>Esther</hi> inclusive</item>
+               <item>8 Bp. <hi>Pearson</hi> on the Creed 165<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>9 <hi>Chillingworths</hi> Religion of the Protestants, a safe way to salvation 1638</item>
+               <item>10 Bp. <hi>Bilson</hi> of Christs sufferings for mans Redemption 160<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>11 Assemblies Annotations on the Bible 2. vol. 1651</item>
+               <item>12 <hi>Fisher</hi> of Baptism 1655</item>
+               <item>13 Bp. <hi>Taylors</hi> 28 Sermons 1651</item>
+               <item>14 <hi>Perkins</hi> Works in 3. volumes</item>
+               <item>15 <hi>Austins</hi> Devotions 1637</item>
+               <item>16 <hi>Ball</hi> of the Power of Godliness 1657</item>
+               <item>17 <hi>Hildersams</hi> Lectures on the LI. Psalm 1642</item>
+               <item>18 <hi>Hildersams</hi> Lectures on the fourth of <hi>John</hi> 1632</item>
+               <item>19 Dr. <hi>Owens</hi> Discourse concerning the H. Spirit 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>20 Dr. <hi>Hamonds</hi> Sermons, both parts 1664</item>
+               <item>21 Bp. <hi>Andrews</hi> Sermons 1692</item>
+               <pb n="2" facs="tcp:206662:2"/>
+               <item>22 <hi>Leigh</hi>'s Body of Divinity 1654</item>
+               <item>23 Bp. Andrewes Sermons best Edition, with the Sermon before two Kings 1661</item>
+               <item>24 <hi>Willets</hi> Synopsis Papismi 1632</item>
+               <item>25 <hi>Hall</hi> of Obedience and Government</item>
+               <item>26 <hi>Leighs</hi> Critica Sacra, best Edition with supplement 1662</item>
+               <item>27 <hi>Birbeck</hi> Protestants Evidence 1657</item>
+               <item>28 <hi>Adams</hi> Comment on the second Epistle of St. <hi>Peter</hi> 2. vol. 1633</item>
+               <item>29 King <hi>James</hi> Works 1616</item>
+               <item>30 <hi>Leighs</hi> Annotations on the New Testament 1650</item>
+               <item>31 B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Fotherby</hi> against Atheists and Infidels 1622</item>
+               <item>32 <hi>Morice</hi> on the Lords Supper 1660</item>
+               <item>33 Dr. <hi>Williams</hi> best Religion 1636</item>
+               <item>34 Dr. <hi>Caves</hi> Lives of the Apostles and Fathers, three parts in 2. vol.</item>
+               <item>35 <hi>Stradas</hi> History of the Low Country Wars 1650</item>
+               <item>36 Dr. <hi>Heylins</hi> Cosmography 1666</item>
+               <item>37 Dr. <hi>Heylins</hi> Life and Death of A. B. <hi>Laud</hi> 1666</item>
+               <item>38 Dr. <hi>Fullers</hi> History of the Holy War 1647</item>
+               <item>39 The History of <hi>Guicciardin</hi> 1599</item>
+               <item>40 Account of the horrid conspiracy 1685</item>
+               <item>41 The Commentaries of Messite Blaize de Montluc 1674</item>
+               <item>42 History of <hi>Lisander</hi> and <hi>Calista</hi> 1627</item>
+               <item>43 <hi>Sandersons</hi> Life and Reign of King <hi>Charles</hi> the first 1658</item>
+               <item>44 <hi>Spriggs</hi> Englands Recovery 1647</item>
+               <item>45 <hi>Camdens</hi> History of Queen <hi>Elizabeth</hi> 1630</item>
+               <item>46 <hi>Carys</hi> Chronological account of ancient Time 1677</item>
+               <item>47 The History of <hi>Philip de Commines</hi> 1614</item>
+               <item>48 <hi>Heaths</hi> Chronicle of the intestine Wars 1676</item>
+               <item>49 History of the Council of Trent, Last Edition 1676</item>
+               <item>40 A review of the Council of Trent 1638</item>
+               <item>51 <hi>Foulis</hi> History of Romish Treasons, <hi>&amp;c.</hi> 1671</item>
+               <item>52 The Roman History of <hi>Titus Livius</hi> 1686</item>
+               <item>53 The Works of <hi>Josephus</hi> 1655</item>
+               <item>54 Dr. <hi>Hylins</hi> History of the Presbyterians 1671</item>
+               <item>55 <hi>Wilsons</hi> History King <hi>James</hi> 1653</item>
+               <item>56 Dr. <hi>Fullers</hi> Church History of Britain 1655</item>
+               <item>57 Dr. <hi>Ingelos</hi> Bentivolio and Urania 1682</item>
+               <item>58 <hi>Blomes</hi> Geographical Description of the World 1675</item>
+               <item>59 <hi>Camdens</hi> Historh of Queen <hi>Elizabeth</hi> 1630</item>
+               <item>60 <hi>Knolles</hi> History of the Turks 1603</item>
+               <item>61 <hi>Chaucers</hi> Works. <hi>Boccas</hi> Fall of Princes together</item>
+               <item>62 Lord Bacons Advancement of Learning 1640</item>
+               <item>63 <hi>Maces</hi> Musicks Monument 1676</item>
+               <item>64 <hi>Beaumont</hi> and <hi>Fletchers</hi> Comodies &amp; Tragedies 1647</item>
+               <item>65 <hi>Sandys</hi> Travels 1672</item>
+               <item>66 <hi>Montagnes</hi> Essays 1632</item>
+               <item>67 D' <hi>Avilas</hi> History of the Civil Wars of <hi>France</hi> 1678</item>
+               <item>68 <hi>Taverniers</hi> Voyages into Turky and Persia 1678</item>
+               <item>69 <hi>Gages</hi> Survey of the West Indies 1655</item>
+               <item>70 <hi>Eltons</hi> Military Discipline 1659</item>
+               <pb n="3" facs="tcp:206662:2"/>
+               <item>71 <hi>Evelyns Sylva, Pomona &amp; Calendarium Harlinse</hi> 1664</item>
+               <item>72 <hi>Stows</hi> Survey of London</item>
+               <item>73 <hi>Leybourns</hi> Compleat Surveyor 1653</item>
+               <item>74 <hi>Philips</hi> New World of English Words 1662</item>
+               <item>75 <hi>Rushworths</hi> Historical Collections 1659</item>
+               <item>76 Ambassadors Travels 1662</item>
+               <item>77 <hi>Burtons</hi> Melancholly 1638</item>
+               <item>78 Mrs <hi>Katherine Philips</hi> Poems 1667</item>
+               <item>79 <hi>Daltons</hi> Justice of Peace 1661</item>
+               <item>80 <hi>Symsons</hi> History of the Church 1634</item>
+               <item>81 Lord <hi>Bacons</hi> Natural History 1658</item>
+               <item>82 Another</item>
+               <item>83 <hi>Willans</hi> Exact Polititian, or Compleat Statesman 1670</item>
+               <item>84 <hi>Parutas</hi> Politick Discourses 1657</item>
+               <item>85 <hi>Favins</hi> Theater of Honour and Knighthood 1623</item>
+               <item>86 <hi>Senecas</hi> Works 1624</item>
+               <item>87 <hi>Terilli Regula Morum Leodii</hi> 1678</item>
+               <item>88 <hi>Biblia Poliglota</hi> in VI. vol.</item>
+               <item>89 A. E. <hi>Anselmus in Epistolas Paulinas</hi>
+               </item>
+               <item>90 <hi>Philostrati Opera Gr. Lat. Par.</hi> 1608</item>
+               <item>91 <hi>Sam. Wardi Opera</hi> 1658</item>
+               <item>92 <hi>Leigh Critaca Sacra</hi> 1679</item>
+               <item>93 <hi>Sir Tho. Aquinatis summa Theologiae Coloniae</hi> 1604</item>
+               <item>94 <hi>Baronii Annales Ecclesiastici</hi> VI. vol.</item>
+               <item>95 <hi>Dan. Senerti operum Tomus Primus Par</hi> 1641</item>
+               <item>96 Loydii Dictionarium Poeticum <hi>Oxon.</hi> 1670</item>
+               <item>97 Alberti Krautz Wandalia <hi>Colinae</hi> 1519</item>
+               <item>98 Bodinus de Republica <hi>Par.</hi> 1586</item>
+               <item>99 Beza in Novum Testamentum 1588</item>
+               <item>100 Minshaei Dictionarium Hispanico Latinum</item>
+               <item>101 Camdeni Britannia <hi>Lond.</hi> 1607</item>
+               <item>102 T. Livii Historia</item>
+               <item>103 Scapulae Lexicon</item>
+               <item>104 Davenantii Determinationes <hi>Cant.</hi> 1634</item>
+               <item>105 —Praelectiones <hi>ib.</hi> 1631</item>
+               <item>106 Augustini Steuchii Opera III. vol. <hi>Venet.</hi> 1591</item>
+               <item>107 Sebast. Barradii comment in Concord. &amp; Hist. Evangel. II. vol. 1618</item>
+               <item>108 Eusebius Ecclesiastical History 1692</item>
+            </list>
+            <list>
+               <head>Books in <hi>Quarto.</hi>
+               </head>
+               <item>109 Spanhemii dubia Evangel. II. vol. <hi>Gen.</hi> 1655 A Prideaux Orationes cum aliis</item>
+               <item>110 Sculteti medula Patrum <hi>Franc.</hi> 1634</item>
+               <item>111 Joh. Georgii Grossii Theatrum Biblicum <hi>Bas.</hi> 1615</item>
+               <item>112 Voet. Theologica Naturalis Reformata <hi>Trai.</hi> 1656</item>
+               <item>113 Jenkins on Jude II. vol.</item>
+               <item>114 Binchii mellificium Theologicum 1658</item>
+               <item>115 Frid. Baldvini casus conscientiae 1628</item>
+               <item>116 S. Bernardi Opera II. vol. <hi>Venet.</hi> 1542</item>
+               <item>a Greenhill on Ezechiel, three parts in II. vol.</item>
+               <item>117 Barberini poemata <hi>Ant.</hi> 1634</item>
+               <item>118 Stephani Dictionarium poetic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m <hi>Gen.</hi> 1633</item>
+               <item>119 Lucretius in usum Delphini <hi>Par.</hi> 1680</item>
+               <item>120 Alstedii Encyclopaedia II. vol. 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <pb n="4" facs="tcp:206662:3"/>
+               <item>121 Platina de vitis Pontificum Romanorum 1611</item>
+               <item>122 Longomont<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni Astronomia danica <hi>Amst.</hi> 1622</item>
+               <item>123 Bezae Icones Virorum illustrium <hi>Gen.</hi> 1580</item>
+               <item>124 Scapulae Lexicon, Greco Latinum <hi>ib.</hi> 16 6</item>
+               <item>125 Deridonis Philosophia Contracta <hi>Gen.</hi> 1681</item>
+               <item>126 Nic Caussinus de Eloquentia <hi>Par.</hi> 1623</item>
+               <item>127 Geor. Layriz de bellii inter Austricos &amp; Gallos 1686</item>
+               <item>128 Bishop of Lincolns Brutum Fulmen</item>
+               <item>129 Rideri Dictionarium <hi>Lond.</hi> 1648</item>
+               <item>130 Sir Jonas Mores System of the Mathematicks II. vol. 1681</item>
+               <item>131 Prynnes Power of Parliaments, four parts in one Vol. 1643</item>
+               <item>132 History of the Church of Great Britain 1674</item>
+               <item>133 Vol. of Dr. Hammonds Tracts</item>
+               <item>134 Diodatis Annotations on the Bible 1643</item>
+               <item>135 Beverleys principles of Protestant truth and peace 1683</item>
+               <item>136 Cosins Canon of the holy Scripture 1657</item>
+               <item>137 Vines on the Sacrament 1657</item>
+               <item>138 Manton on James 1651</item>
+               <item>139 Manton on Jude 1658</item>
+               <item>139 Hales Golden remains 1659</item>
+               <item>140 Baxtors reasons of the Christian Religion 1667</item>
+               <item>141 Baxters Catholick Communion 1684</item>
+               <item>142 Barrow Lectiones Geometricae 1670</item>
+               <item>143 Glissonius de Ventriculo</item>
+               <item>144 A fine Desk covered with Green Cloth</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Books in</hi> 80, and 120.</head>
+               <item>144 PEtavii Rationarium temporum</item>
+               <item>145 Seldenus de DIS, Syris</item>
+               <item>146 Preadamitae</item>
+               <item>147 Outred clavis Mathematicae</item>
+               <item>148 Wendelini Christiana theologia</item>
+               <item>149 Aristophanis Gr. Lat.</item>
+               <item>150 J. C. Scaligeri Epistolae &amp; Oration.</item>
+               <item>151 Barclaii Argenis</item>
+               <item>152 Ars Sciendi</item>
+               <item>153 Brissonius de regno Persarum</item>
+               <item>154 Confessio fidei <hi>Cant.</hi> 1659</item>
+               <item>155 Corvini digesta</item>
+               <item>156 Voetii Bibliotheca</item>
+               <item>157 Sir Tho. Browns Tracts</item>
+               <item>158 Selden of Parliaments</item>
+               <item>159 Hammond de confirmatione</item>
+               <item>160 Batei &amp; Skinneri Motus in Ang. II. vol.</item>
+               <item>161 Sleidani Commentaria</item>
+               <item>162 Calvini institutione</item>
+               <item>163 Machiavels discourses on T. Livius</item>
+               <item>164 Parkers Ecclesiastical polity</item>
+               <item>165 Childry Britannia baconica</item>
+               <item>166 Roman Cathol. doctrines, no novellies</item>
+               <item>167 Mageri method. concionandi</item>
+               <item>168 Wilkinson conciones</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Books in</hi> 80, and 120.</head>
+               <item>169 Petracha de remediis Fortunae</item>
+               <item>170 Amyraldi Irenicum</item>
+               <item>171 Methodus concionandi</item>
+               <item>172 Erasmi colloquia <hi>Par.</hi> 1661</item>
+               <item>173 Fr. Patricius de Regis institut.</item>
+               <item>174 Camdeni Britannia</item>
+               <item>175 Senecae opera II. Vol.</item>
+               <item>176 Aymari Rivallii. Hist. juris civilis</item>
+               <item>177 Canones Concilii Tridentini</item>
+               <item>178 Adami vitae theologorum German</item>
+               <item>179 Bezae Epistolae</item>
+               <item>180 Etchards Works 1685</item>
+               <item>181 Bucani Institutiones</item>
+               <item>182 Joan. Maury theatrum univers. vanitat.</item>
+               <item>183 B. Fulgentii opera</item>
+               <item>184 Metford of Simony</item>
+               <item>185 Nic. Fulleri miscellanca</item>
+               <item>186 Lat. Bib. corio <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cico</item>
+               <item>187 Wal. Missali<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us de Episcopis, &amp;c.</item>
+               <item>188 Metford of Simony</item>
+               <item>189 Selden of Parliaments</item>
+               <item>190 Stillingfleet of Idolatry</item>
+               <item>191 Li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Bp. Sanderson, &amp;c.</item>
+               <item>192 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lanvil of Dogmatizing</item>
+               <item>193 Heereboord Selectae disputat.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206662:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
